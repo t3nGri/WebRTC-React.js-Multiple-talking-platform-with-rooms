@@ -3,7 +3,7 @@
 
 I tried to create a Multiple talking website with rooms
 
-You mustn't run to start "npm start", it doesn't work
+You mustn't run to start "npm start", it doesn't work, 
 Platform works with node(server.js), I rooted localhost:8080 to react build files. 
 
 START with write on terminal `node server.js` ****
