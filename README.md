@@ -31,7 +31,7 @@ Then you can see platform on your `localhost:8080` port
 ![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(5).png)
 
  perhabs Player2 wants to create his/her own room, and then he/her created room named "player2's room"
- --THEN THERE IS 2 ROOM IN PLATFORM
+ --NOW THERE IS 2 ROOM IN PLATFORM
 ![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(6).png)
 
 
