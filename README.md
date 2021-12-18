@@ -23,7 +23,7 @@ Then you can see platform on your `localhost:8080` port
  congratulations you created room named "githubroom"
 ![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(3).png)
 
- TURN OF PLAYER2****
+ TURN OF PLAYER2
  then another person logged in platform, he/her will see our room named "githubroom", he/her can click on room and attend.
 ![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(4).png)
 
