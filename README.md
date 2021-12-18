@@ -13,7 +13,7 @@ Sorry some texts are Turkish, but you can understand.
 
 Then you can see platform on your `localhost:8080` port
 
-# Screenshots and smurf story
+# Screenshots
  First you will see, login section, you should type your name/username
 ![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(1).png)
 
