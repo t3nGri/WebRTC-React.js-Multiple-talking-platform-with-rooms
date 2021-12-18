@@ -14,24 +14,24 @@ Sorry some texts are Turkish, but you can understand.
 Then you can see platform on your `localhost:8080` port
 
 First you will see, login section, you should type your name/username
-https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(1).png
+![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(1).png)
 
 then you should create a room because there is no live room in platform
-https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(2).png
+![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(2).png)
 
 congratulations you created room named "githubroom"
-https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(3).png
+![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(3).png)
 
 TURN OF PLAYER2****
 then another person logged in platform, he/her will see our room named "githubroom", he/her can click on room and attend.
-https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(4).png
+![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(4).png)
 
 They are having fun! :D, you can turn off your mic, increase or decrease others' voice size
-https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(5).png
+![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(5).png)
 
 perhabs Player2 wants to create his/her own room, and then he/her created room named "player2's room"
 THEN THERE IS 2 ROOM IN PLATFORM
-https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(6).png
+![App Screenshot](https://raw.githubusercontent.com/t3nGri/WebRTC-React.js-Multiple-talking-platform-with-rooms/main/readmepics%20(6).png)
 
 
 
